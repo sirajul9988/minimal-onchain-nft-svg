@@ -1,0 +1,11 @@
+{
+  "name": "minimal-onchain-nft",
+  "version": "1.0.0",
+  "description": "On-chain SVG NFT project",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
